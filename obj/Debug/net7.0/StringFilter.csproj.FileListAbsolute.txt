@@ -1,0 +1,15 @@
+D:\C#Education\StringFilter\obj\Debug\net7.0\StringFilter.csproj.AssemblyReference.cache
+D:\C#Education\StringFilter\obj\Debug\net7.0\StringFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Education\StringFilter\obj\Debug\net7.0\StringFilter.AssemblyInfoInputs.cache
+D:\C#Education\StringFilter\obj\Debug\net7.0\StringFilter.AssemblyInfo.cs
+D:\C#Education\StringFilter\obj\Debug\net7.0\StringFilter.csproj.CoreCompileInputs.cache
+D:\C#Education\StringFilter\bin\Debug\net7.0\StringFilter.exe
+D:\C#Education\StringFilter\bin\Debug\net7.0\StringFilter.deps.json
+D:\C#Education\StringFilter\bin\Debug\net7.0\StringFilter.runtimeconfig.json
+D:\C#Education\StringFilter\bin\Debug\net7.0\StringFilter.dll
+D:\C#Education\StringFilter\bin\Debug\net7.0\StringFilter.pdb
+D:\C#Education\StringFilter\obj\Debug\net7.0\StringFilter.dll
+D:\C#Education\StringFilter\obj\Debug\net7.0\refint\StringFilter.dll
+D:\C#Education\StringFilter\obj\Debug\net7.0\StringFilter.pdb
+D:\C#Education\StringFilter\obj\Debug\net7.0\StringFilter.genruntimeconfig.cache
+D:\C#Education\StringFilter\obj\Debug\net7.0\ref\StringFilter.dll
