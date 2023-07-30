@@ -29,7 +29,7 @@
     Console.WriteLine("Введите элементы массива, разделяя их запятой:");
     string? input = Console.ReadLine();
 
-    string[] stringArray = input.Split(',');
+    string[] stringArray = input!.Split(',');
 
     string[] filteredArray = FilterStringArray(stringArray);
 
